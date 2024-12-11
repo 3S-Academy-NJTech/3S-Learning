@@ -45,3 +45,4 @@
 - [全国高校GIS技能大赛](http://contest.gisera.com/)（操作、论文、开发赛道）
 - [数学建模国赛](https://www.mcm.edu.cn/)
 - [数学建模美赛](https://www.contest.comap.com/)
+- [蓝桥杯软件赛](https://dasai.lanqiao.cn/)
