@@ -41,6 +41,7 @@
 - [江苏省测绘地理信息创新创业大赛](http://119.45.12.130:6868/#/)
 - [易智瑞GIS开发竞赛](https://contest.geoscene.cn/)
 - [SuperMap杯高校GIS大赛](http://user.giscontest.com/)
+- [全国大学生GIS应用技能大赛-备赛资料](竞赛/GIS应用技能大赛.md)
 - [全国高校GIS技能大赛](http://contest.gisera.com/)（操作、论文、开发赛道）
 - [数学建模国赛](https://www.mcm.edu.cn/)
 - [数学建模美赛](https://www.contest.comap.com/)
