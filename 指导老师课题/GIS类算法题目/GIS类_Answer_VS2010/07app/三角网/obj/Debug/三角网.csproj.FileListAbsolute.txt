@@ -1,0 +1,17 @@
+C:\Users\Geoboy\Desktop\软件比赛\自己做的题目\三角网\三角网\三角网\bin\Debug\三角网.exe
+C:\Users\Geoboy\Desktop\软件比赛\自己做的题目\三角网\三角网\三角网\bin\Debug\三角网.pdb
+C:\Users\Geoboy\Desktop\软件比赛\自己做的题目\三角网\三角网\三角网\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Geoboy\Desktop\软件比赛\自己做的题目\三角网\三角网\三角网\obj\Debug\三角网.Form1.resources
+C:\Users\Geoboy\Desktop\软件比赛\自己做的题目\三角网\三角网\三角网\obj\Debug\三角网.Properties.Resources.resources
+C:\Users\Geoboy\Desktop\软件比赛\自己做的题目\三角网\三角网\三角网\obj\Debug\三角网.csproj.GenerateResource.Cache
+C:\Users\Geoboy\Desktop\软件比赛\自己做的题目\三角网\三角网\三角网\obj\Debug\三角网.exe
+C:\Users\Geoboy\Desktop\软件比赛\自己做的题目\三角网\三角网\三角网\obj\Debug\三角网.pdb
+C:\Documents and Settings\Administrator\桌面\GIS_VS2010\07app\三角网\obj\Debug\三角网.exe
+C:\Documents and Settings\Administrator\桌面\GIS_VS2010\07app\三角网\obj\Debug\三角网.pdb
+C:\Documents and Settings\Administrator\桌面\GIS_VS2010\07app\三角网\bin\Debug\三角网.exe
+C:\Documents and Settings\Administrator\桌面\GIS_VS2010\07app\三角网\bin\Debug\三角网.pdb
+C:\Documents and Settings\Administrator\桌面\GIS_VS2010\07app\三角网\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\GIS_VS2010\07app\三角网\obj\Debug\三角网.Form1.resources
+C:\Documents and Settings\Administrator\桌面\GIS_VS2010\07app\三角网\obj\Debug\三角网.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\GIS_VS2010\07app\三角网\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\GIS_VS2010\07app\三角网\obj\Debug\GenerateResource-ResGen.write.1.tlog
