@@ -28,8 +28,8 @@
 |--------|------|----------|--------|------|----------|
 | [现代地理学](https://pan.baidu.com/s/15uia1IMnD9EAONppaoLIiA?pwd=66ce)   | [数字测图](专业课资料/数字测图.md)   | [地信原理](https://pan.baidu.com/s/1uA2h0YA5ewM3YzVhp0IqEQ?pwd=4hks)    |[计算机图形学](https://pan.baidu.com/s/1Hl4w8HCkU_MOwbmBeqW3kA?pwd=hffy)   | [数据库](专业课资料/数据库.md)   | [数据结构](专业课资料/数据结构.md)    |
 | [遥感原理](专业课资料/遥感原理.md)   | [C#](https://pan.baidu.com/s/1StKaKslh42voryzCO6JR9A?pwd=2rv9)   | [gis二次开发](专业课资料/gis二次开发.md)    |[平差](专业课资料/平差.md)   | [地图学](https://pan.baidu.com/s/1M3EKFu9r1dAvY69RtS2jnw?pwd=nmcu)   | [计算机等级考试（三级+四级）](https://pan.baidu.com/s/12aHtuOWhlSV-UqMwNw-ETQ?pwd=zij3)    |
-| [近现代史](https://pan.baidu.com/s/1471biGwoojpWegxUoM2PhA?pwd=wura)   | [毛概](https://pan.baidu.com/s/1hvoo5A1qUHbqOXg9KhUgqQ?pwd=1vxy)   | [思修](https://pan.baidu.com/s/15ZRSVqGPcLN9lHjYKb-0-g?pwd=p2dh)    |[数学建模](专业课资料/数学建模.md)   | [摄影测量](https://pan.baidu.com/s/15P-crhvwt8TmaL_gPS6O3Q?pwd=87kz)   | []()    |
-| []()   | []()   | []()    |[]()   | []()   | []()    |
+| [近现代史](https://pan.baidu.com/s/1471biGwoojpWegxUoM2PhA?pwd=wura)   | [毛概](https://pan.baidu.com/s/1hvoo5A1qUHbqOXg9KhUgqQ?pwd=1vxy)   | [思修](https://pan.baidu.com/s/15ZRSVqGPcLN9lHjYKb-0-g?pwd=p2dh)    |[数学建模](专业课资料/数学建模.md)   | [摄影测量](https://pan.baidu.com/s/15P-crhvwt8TmaL_gPS6O3Q?pwd=87kz)   | [马原](https://pan.baidu.com/s/1yrKUjUIEyYIM0h_SH9H8JQ?pwd=ya32)    |
+| [习思](https://pan.baidu.com/s/1akPahrrNv66V5q1tD7BBdA?pwd=e9yf)   | []()   | []()    |[]()   | []()   | []()    |
 
 
 ---
